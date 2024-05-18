@@ -5,7 +5,7 @@
 <table>
 <tr>
 <td valign="top" width="50%">
-<img src="metrics.svg" alt="Metric" />
+<p align="center"><img src="/github-metrics.svg" alt="Metrics" width="400"></p>
 </td>
 <td valign="top" width="50%">
 
@@ -17,3 +17,7 @@ I'm still in school at the moment, I only have bad grades, but I'm good at C# an
 
 do not judge my code\
 famous last words
+
+</td>
+</tr>
+<table>
