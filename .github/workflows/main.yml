@@ -17,3 +17,21 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.GH_TOKEN }}
+          committer_message: "chore: update ${filename}"
+          config_timezone: Europe/Vienna
+          plugin_contributors: yes
+          plugin_contributors_contributions: yes
+
+          plugin_habits: yes
+          plugin_habits_facts: no
+          plugin_habits_charts: yes
+
+          plugin_languages: yes
+          plugin_languages_ignored: >-
+            html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell,
+            gnuplot
+          plugin_languages_indepth: yes
+          plugin_languages_details: lines, bytes-size
+          plugin_languages_limit: 4
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_sections: recently-used
