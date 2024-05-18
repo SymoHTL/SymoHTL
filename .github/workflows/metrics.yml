@@ -19,7 +19,7 @@ jobs:
           token: ${{ secrets.GH_TOKEN }}
           filename: metrics.svg
           committer_message: "chore: update ${filename}"
-          config_timezone: Europe/Paris
+          config_timezone: Europe/Vienna
           template: classic
           base: header, activity, community, repositories, metadata
           config_order: base.header, base.repositories, base.activity+community, isocalendar, music
