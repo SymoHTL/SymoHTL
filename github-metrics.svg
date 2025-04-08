@@ -34,8 +34,8 @@
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -416,7 +416,7 @@
                     </h2>
                     <div class="medias largeable-flex-wrap">
                         <div class="media largeable-width-half">
-                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAGwAAAgMBAQEAAAAAAAAAAAAABgcDBQgEAgH/xAAsEAABAwMDAwQBBQEBAAAAAAABAgMEAAURBhIhBxNBIjFRYRQyQlJxgSOR/8QAGgEBAAIDAQAAAAAAAAAAAAAABQACAQMGBP/EACMRAAICAQQCAwEBAAAAAAAAAAEDAAIEBRESIRNBFCIxUWH/2gAMAwEAAhEDEQA/AMwjk1OhGa8NDdXdEYKzWllvGNpYLLD1I22eMAFR+q6kRVpRuUQkfBoz0joi431YDDJQg+6iKa1p6OQmmh+bIDjvlINEZGqKV9SYiMQmszqYpTylQINc7kfB3BJB+TWmLn0ftzsc9p3sueATSw1V07utmSpSWi8z4UBVcfV0t+u8v8I2XFa4nFQqFWkuOUEgjBBwRVetBFMquLjaHWoQOEnZQSB7ZUcUdaC02bzdWWEn0AgqNBkdpAVvK/SPan70btDcW2LlqV/0dHpNF6q8pST7nswaA9mMOA9b7IxHgMgJUnjaP1KP90Vxz3Gku7e0FcKSrk4pNam1JPYvbdnsDKEvvnC3nkhefpPxVlpHUN+tV+jW3UGH48lWxBSMbD8n6rkb6Y1q/kExTmB0I05I2x3HG0Fw4/SPc0NSLhGkLVFdRhKhhTC+VH+jVP1I1hcLXco9psgQia/xvWnIwaCE3e/2u+sRb12n0Pkbi2jCufg1rxtKb4/ODMhorbiYH9TNNpgXF19Cdjbh4HxSzlI2uJA/acmtAdVGRKsSHgCNuTz70hJAAKs+eK7DSHFyv9EPzlBduQnmLtKQB+sHzT86NvvO291pKSXMekn2FIOMoKcPcG1A81ovp3c4Vt0f3kBIyDlymq4KskmrfyC3y2oXvWfLsiE7qB6PNbWqWhIUVNK2lP3RDa7RBhTYkkwJzryj6N7u7H3QlN0qm/squseYsSFE7tqj6h4FR2WRrCwSWm47apjKFZaWobsn45oLMri5DDWh226j2DViUd9kw71FCgX9wvvW+S461wHG17SCPGaE54t0G6wAyy+HXV7O4+5vAIqxlzdaqYXE70SEmRypK2fUnPnNCydOy2JirpPfUotchBPAP8v9rXhqSh1dzuP5LZPNiSPYln1FcVHsSkPp5VnB8UgZ6QHMDlSjxWoNQIiXbSS25QTuDeQrNZjuYSzJfaQcoQo+quivp9MawKfcBXntfQ1sPyVbayD9VZsXF9DXbS86G/4hXH/lUqSqpQsiodjYcTLDs8bRg6T1xOsawG1Fxnyk80yYXVK0yG0/ktrS4OcBWADWeUOkH0nFTB8kc4T94ox+mKdfvqIpzbVrsZoG49UbSlJUW3HXcYSrdml9qfX068bkIISwf2p4NL/8gjjcn/RUanjnKQR9+KidNWi247kdmWZXjWEb+pZ/4pYLzm0jGN1DzzuUqKycq96iU55Uqolq3eo+1Lc7X7tDeHA7Vn//2Q==" alt="" />
+                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAHAAAAgIDAQEAAAAAAAAAAAAABgcBBQACBAMI/8QAOBAAAQMDAgMEBggHAAAAAAAAAQIDBAAFEQYHEiExFBdBUSJhcpGSsRMyM0JSVHGBCBUWJjZigv/EABoBAAIDAQEAAAAAAAAAAAAAAAMEAAEFAgb/xAAlEQABBAEEAQQDAAAAAAAAAAABAAIDBBEFEiFBExQxcZEkUaH/2gAMAwEAAhEDEQA/AKPcbW7+lZjTbTXETz5ig7vlmkqJYHMeQqN/c/zWOVKBOB8qU6uRycdKwNK0yvJWaXDlbd/UJ45iAU2e+Sag5bjj3CsO8s/PEY49wpTAeGDmru16YvVzQFQbc+8PNIpp+lUGAFzf6lmX7MhIBR93yziciOPcKzvkmn68cH9hQNcdIX+A0XJVsfbQOpIofUkoJCkkKqM0ujL1kfKt163ESCU2e+Sb91ge4USaF3ElajvTcV9sJz6qQKeoIpgbM89WNY65FAvaXWirvDG9IlS/K+UBxVzv2Cq7sHzA+VKgpyQBzNNff05ukf8Ab5UEbf25F11bbobgyhx0A5pjTpPwxL1yh3m77ZGUV6atdo0rDYu2qGS/LV6TEMHCvUT5g039B7g2TUT6Y0OGm2yxyDKgMueoY8aU+/NqlQdTId4FKhhlDaFgcgQOldu3M6Pd5FjgW62utS4j5cel8sBJHjWfdgjtQid2Sf3n2TNdzYZi3pNrXesrVphgJmMJkSlnAaODw/qKT18VpzXqnF2WKq3XdAzwKPovHySBW/8AEJb5iNVic6lS4qm0oBT0yKjbaZFuYs9tgW1wTo8guLlAcgD50KlVjq1xOwkn5Vzy+act6SplMrjyFsupKVoUUqHrFHGzGf6sbI8CKneq1N2jWbzLQHpNpWrHmetTsuf7tb8hitm1N5aZfjpJ12NjtgEq637PFdWAR0A5/tQLoi5u2fUkScyyX3GlZDaepo639JFzjoIwcD5UL7TqYRra3rkFCWAscRc5ilqLg3TuR0V3bINrjhM24bjyrg0UTtMvOjw40g1427cJ+2giFpZ1tR6lCADTbM+whRIchkeyKjt9iVzLkMf8ivMPuQsG0wn7K1AzczO8JVTtyJc9n6Gbpl5wf7pBrztu4L1tBTC0u42s/eSgA02e32ID7SGVeyKzt9iKea4YV7IrllyFw2iE/ZU2bWZLwvl7c6/v6j1B2yTFXFd4AngX15V37LgjVjfD4451178OxHdXccJTSmfo0/ZjHOuPZj/KkAH62ABXqpHB2nHAxwsqPAtDPKud/Dm6MKIIOB1/SlQhbiFcSFKSoeKTin5urpC4ajmtPQxkDA6UA91d9PEeDkB5UPTL9cVgC5Fv1JzP7IG7dL8JT/xmp7bM/NP49s0bjay+/hHw1t3W338I+GnRfpA8uCU9JOeigbtsz80/8ZqDOl+Mp/4zR13WX0/dHurXurvv4R8NQ36RPDgqNScdFAbjrjp4nFrWfNRzR7sucaqQeEkjFYdrL7wZCOX6UXbb6FulhvwlS04QAD0pa9qFf0zgHBNVak4mBwv/2Q==" alt="" />
                             <div class="about">
                                 <div class="name">R.E.P.O.</div>
                                 <div class="infos">
@@ -460,7 +460,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Apr 2025, 02:21:26 (timezone Europe/Vienna) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 8 Apr 2025, 02:20:28 (timezone Europe/Vienna) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
